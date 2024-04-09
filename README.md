@@ -3,7 +3,8 @@
 <h3 align="center">
  About
 </h3>
-<p align="center"> This repository contains projects/exercises built while acquiring full stack ev skills through the [App Academy Open](https://appacademy.io/course/app-academy-open)
+<p align="center"> This repository contains projects/exercises built while acquiring full stack ev skills through the <a href="https://appacademy.io/course/app-academy-open">App Academy Open</a>
+
  curriculum</p>
 
 ## JavaScript
