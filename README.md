@@ -1,9 +1,9 @@
 <!-- PROJECT TITLE -->
-  <h1 align="center">FullStack</h1>
-<h1 align="center">
+  <h1 align="center">FullStack Engineering</h1>
+<h3 align="center">
  About
-</h1>
-<p align="center"> This repository contains projects/exercises built to acquire practical DevOps skills</p>
+</h3>
+<p align="center"> This repository contains projects/exercises built while acquiring full stack ev skills through the [App Academy Open](https://www.appacademy.io/course/app-academy-open) curriculum</p>
 
 ## JavaScript
 
