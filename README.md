@@ -4,30 +4,16 @@
  About
 </h3>
 <p align="center"> This repository contains projects/exercises built while acquiring full stack ev skills through the <a href="https://appacademy.io/course/app-academy-open">App Academy Open</a> curriculum. </p>
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg" title="Sequelize" alt="Sequelize" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="Git" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Git" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg" title="SQLAlchemy" alt="SQLAlchemy" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+</div>
 
-## JavaScript
-
-<img align="right" src="./assets/aws.png" width="75" height="70" alt="AWS"> 
-
-
-<br>
-
-## Python
-
-<img align="right" src="./assets/python.png" width="75" height="80" alt="python"> 
-
-<br>
-
-## HTML/CSS
-
-<img align="right" src="./assets/shell_scripting.png" width="85" height="80" alt="shell_scripting"> 
-
-
-<br>
-
-## TDD & OOP
-
-<img align="right" src="./assets/golang.png" width="170" height="90" alt="golang"> 
-
-
-<br>
