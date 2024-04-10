@@ -1,12 +1,13 @@
 <h1 align="center">Abe BDday "card"/webapp</h1>
+
 ## About
 
-Made a web app in place of a BDay card
+moving from paper greeting/well wish cards to personalized greeting/well wish web apps
 
 ## View web app
 
-[abe-bday-msg](https://abigail-bday-msg.vercel.app/
-)
+[abe-bday-msg](https://abigail-bday-msg.vercel.app/)
+
 ## Table of Contents
 
 <details>
