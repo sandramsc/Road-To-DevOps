@@ -4,10 +4,15 @@
 <title>HTML Tags Cheat Sheet</title>
 </head>
 <body>
-<h1>HTML Tgs Cheat Sheet</h1>
-<h2>Headings</h2>
+<h1 id="top-of-page">HTML Tags Cheat Sheet</h1>
+<p>Table of Contents</p>
+- <a href="#hd-tag-1">Headings</a>
+- <a href="#hd-tag-2">Paragraphs</a>
+- <a href="#hd-tag-3">Anchors</a>
+
+<h2 id="hd-tag-1">Headings</h2>
 <p>Headings from `h1` to `h6` identify blocks and sections. Every page must have one `h1`.</p>
-<h2>Paragraphs</h2>
+<h2 id="hd-tag-2">Paragraphs</h2>
 <p>Paragraphs of text go in `p` tags.</p>
 <h4>Types of lists</h4>
 <ul>
@@ -23,7 +28,7 @@
         <li>Carry out the plan</li>
         <li>Go back and improve your solution</li>
 </ol>
-<h2>Anchors (i.e. links)</h2>
+<h2 id="hd-tag-3">Anchors (i.e. links)</h2>
 <p>
 Anchor tags create links to other pages. The URL goes in the `href` attribute.
 <a href="https://duckduckgo.com">
@@ -37,5 +42,30 @@ Anchor tags create links to other pages. The URL goes in the `href` attribute.
       </a>
       for more details.
     </p>
+<p>Anchor tags can also create links to a new location on the same page. Instead of putting a URL goes in the "href" attribute, just use the "id" of the element you want to navigate to. This allows you to
+<a href="#top-of-page">Jump to top of page</a>
+</p>
+<h2>Text Emphasis</h2>
+<h3>Italic</h3>
+<em>The `em` element adds extra emphasis to the text within the opening and closing tags. This shows up as italic text in most browsers.</em>
+<h3>Bold</h3>
+<strong>You can also use the `strong` element to emphasize text. This shows up as bold text in most browsers.</strong>
+<h2>Organizing Content with `div` and `span`</h2>
+<h3>`div`</h3>
+<p></p>
+ <div>1st div</div>
+ <div>2nd div</div>
+ <div>3rd div</div>
+<span>`span`</span>
+<p>The `span` element is an inline element, so there will be no line break between each `span`.</p>
+<span>1st span</span>
+<span>2nd span</span>
+<span>3rd span</span>
+<h2>Breaking text using the `br` tag</h2>
+<p>
+line line line line <br>
+line line line line <br>
+line line line line <br>
+</p>
 </body>
 </html>
