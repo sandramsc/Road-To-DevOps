@@ -3,7 +3,7 @@
 <h3 align="center">
  About
 </h3>
-<p align="center"> This repository contains projects/exercises built while acquiring Full Stack Engineering skills through the <a href="https://appacademy.io/course/app-academy-open">App Academy Open</a> curriculum & <a href="https://teachyourselfcs.com"> Teach Yourself Computer Science</a> resources. </p>
+<p align="center"> This repository contains projects/exercises built while acquiring Full Stack Engineering skills through the <a href="https://appacademy.io/course/app-academy-open">App Academy Open</a> curriculum </p>
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg" title="Sequelize" alt="Sequelize" width="40" height="40"/>&nbsp;
