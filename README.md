@@ -1,8 +1,8 @@
 <!-- PROJECT TITLE -->
   <h1 align="center">FullStack Eng. w/ DevOps</h1>
-<h3 align="center">
+<h2 align="center">
  About
-</h3>
+</h2>
 <p align="center"> This repository contains projects/exercises built while upskilling in Full Stack Eng. & DevOps skills</p>
 <div align="center">
   <img src="./assets/devops.png" width="60"/>
