@@ -1,5 +1,5 @@
 <!-- PROJECT TITLE -->
-  <h1 align="center">FullStack Engineering</h1>
+  <h1 align="center">FullStack Eng. w/ DevOps</h1>
 <h3 align="center">
  About
 </h3>
