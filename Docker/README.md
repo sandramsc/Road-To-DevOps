@@ -2,7 +2,7 @@
   <h1 align="center">DevOps with Docker</h1>
 
 <div id="header" align="center">
-  <img src="assets/Docker/docker.png" width="250"/>
+  <img src="https://github.com/user-attachments/assets/9aec20af-45e2-42c5-9cc5-e5889afc1669" width="250"/>
 </div>
 
 ## Application Description
