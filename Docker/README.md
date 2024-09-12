@@ -7,12 +7,10 @@
 
 ## Application Description
 
-This repository contains programs written to gain practical experience in Docker. A MOOC course taught by [University of Helsinki](https://helsinki.fi/). 
+This repository contains programs written for the purpose of gaining knowledge and practical skills in Docker taught by [University of Helsinki](https://java-programming.mooc.fi/).
 
 ## Technologies
 * Docker
-
-
 
 ## Authors
 
