@@ -20,7 +20,4 @@ This repository contains programs written to gain practical experience in Python
 | --------------- | -------------------------------------- |
 | Sandra Ashipala | https://www.linkedin.com/in/sandraashipala/ |
 
-## License
-[![GitLicense](https://img.shields.io/badge/License-MIT-lime.svg)](https://github.com/sandramsc/py4e/blob/master/LICENSE.md)
-
 
