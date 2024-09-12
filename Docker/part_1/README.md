@@ -14,4 +14,4 @@ We have containers and an image that are no longer in use and are taking up spac
 
 Clean the Docker daemon by removing all images and containers.
 
-Submit the output for `docker ps -a` and `docker image ls
+Submit the output for `docker ps -a` and `docker image ls`
